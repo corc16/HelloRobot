@@ -1,5 +1,5 @@
 from gopigo import *
-
+import time
 
 class Piggy(object):
     def __init__(self):
